@@ -32,8 +32,8 @@ Part numbers:
 References:
 * Volvo TP 0302057
 * [Diagram 60-2 flywheel](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_60-2_flywheel.png)
-* [Output pin 1 +](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_Negative_zero_crossing_on_tooth_- pin_1_+,_pin_2_-.png)
-* [Output pin 1 -](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_Positive_zero_crossing_on_tooth_- pin_1_-,_pin_2_+.png)
+* [Output pin 1 +](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_Negative_zero_crossing_on_tooth_-_pin_1_+,_pin_2_-.png)
+* [Output pin 1 -](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_Positive_zero_crossing_on_tooth_-_pin_1_-,_pin_2_+.png)
 
 ### Engine coolant temperature sensor
 
