@@ -1,4 +1,4 @@
-# Volvo-B230FT-sensors-and-actuators-for-use-with-a-stand-alone-ECU
+# Volvo B230FT sensors and actuators for use with a stand-alone ECU
 
 Most components used by the LH-Jetronic 2.4 and EZ 116 K to control and regulate Volvo's B230FT are directly usable with a stand-alone engine-management system. Modern stand-alone ECUs benefit from upgrading the throttle position switch to a potentiometer-style throttle position sensor, swapping the narrow-band O2 sensor for a wide-band sensor (with controller) and adding manifold air pressure and inlet air temperature sensors.
 
