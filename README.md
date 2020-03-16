@@ -31,9 +31,9 @@ Part numbers:
 
 References:
 * Volvo TP 0302057
-* [Diagram 60-2 flywheel](Datasheets and other helpful documents/Engine speed sensor - 60-2 flywheel.png)
-* [Output pin 1 +](Datasheets and other helpful documents/Engine speed sensor - Negative zero crossing on tooth - pin 1 +, pin 2 -.png)
-* [Output pin 1 -](Datasheets and other helpful documents/Engine speed sensor - Positive zero crossing on tooth - pin 1 -, pin 2 +.png)
+* [Diagram 60-2 flywheel](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_60-2_flywheel.png)
+* [Output pin 1 +](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_Negative_zero_crossing_on_tooth_- pin_1_+,_pin_2_-.png)
+* [Output pin 1 -](Datasheets_and_other_helpful_documents/Engine_speed_sensor_-_Positive_zero_crossing_on_tooth_- pin_1_-,_pin_2_+.png)
 
 ### Engine coolant temperature sensor
 
@@ -72,7 +72,7 @@ Part numbers:
 | 3 | OUT |
 
 References:
-* [Technical product information on sensors](Datasheets and other helpful documents/Bosch Sensors [2001].pdf)
+* [Technical product information on sensors](Datasheets_and_other_helpful_documents/Bosch_Sensors_[2001].pdf)
 
 ### Heated oxygen sensor (non-standard)
 
@@ -82,8 +82,8 @@ Part numbers:
 * Bosch 0 258 017 025 (or equivalent)
 
 References:
-* [Datasheet](Datasheets and other helpful documents/Bosch 0 258 017 025, B 261 209 358-03 Lambda Sensor LSU 4.9 [2015].pdf)
-* [Technical product information](Datasheets and other helpful documents/Bosch Technical Product Information - Planar Wide Band Lambda Sensor - LSU4.9 [2005].pdf)
+* [Datasheet](Datasheets_and_other_helpful_documents/Bosch_0_258_017_025,_B_261_209_358-03_Lambda_Sensor_LSU_4.9 [2015].pdf)
+* [Technical product information](Datasheets_and_other_helpful_documents/Bosch_Technical_Product_Information_- Planar_Wide_Band_Lambda_Sensor_-_LSU4.9_[2005].pdf)
 
 ### Intake air temperature sensor (non-standard)
 
@@ -99,7 +99,7 @@ Part numbers:
 | +80°C (176°F) | 323 Ω |
 
 References:
-* [Datasheet](Datasheets and other helpful documents/Bosch 0 280 130 039 Temperature Sensor NTC M12-L [2015].pdf)
+* [Datasheet](Datasheets_and_other_helpful_documents/Bosch_0_280_130_039_Temperature_Sensor_NTC_M12-L_[2015].pdf)
 
 
 ## Actuators
