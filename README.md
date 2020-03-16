@@ -82,8 +82,8 @@ Part numbers:
 * Bosch 0 258 017 025 (or equivalent)
 
 References:
-* [Datasheet](Datasheets_and_other_helpful_documents/Bosch_0_258_017_025,_B_261_209_358-03_Lambda_Sensor_LSU_4.9 [2015].pdf)
-* [Technical product information](Datasheets_and_other_helpful_documents/Bosch_Technical_Product_Information_- Planar_Wide_Band_Lambda_Sensor_-_LSU4.9_[2005].pdf)
+* [Datasheet](Datasheets_and_other_helpful_documents/Bosch_0_258_017_025,_B_261_209_358-03_Lambda_Sensor_LSU_4.9_[2015].pdf)
+* [Technical product information](Datasheets_and_other_helpful_documents/Bosch_Technical_Product_Information_-_Planar_Wide_Band_Lambda_Sensor_-_LSU4.9_[2005].pdf)
 
 ### Intake air temperature sensor (non-standard)
 
