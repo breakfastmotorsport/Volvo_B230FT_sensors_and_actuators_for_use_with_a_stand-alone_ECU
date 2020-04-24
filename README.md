@@ -181,3 +181,20 @@ Part numbers:
 
 References:
 * Volvo TP 0302057
+
+
+## Wire color codes
+
+| Color | Volvo | IEC 60757 | DIN 47002 |
+| --- | --- | --- | --- |
+| black | SB | BK | sw |
+| brown | BN | BN | br |
+| red | R | RD | rt |
+| orange | OR | OG | or |
+| yellow | Y | YE | ge |
+| green | GN | GN | gn |
+| blue | BL | BU | bl |
+| violet | VO | VT | vi |
+| grey | GR | GY | gr |
+| white | W | WH | ws |
+| pink | P | PK | rs |
