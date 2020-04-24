@@ -23,11 +23,11 @@ Part numbers:
 | 2 | VR - |
 | 3 | Shield/GND |
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| EZK | 10 | R |
-| EZK | 23 | BL |
-| EZK | 11 | SB |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| EZK | 10 | R |  |
+| EZK | 23 | BL |  |
+| EZK | 11 | SB | (shield) |
 
 References:
 * Volvo TP 0302057
@@ -49,10 +49,10 @@ Part numbers:
 | +20°C (68°F) | 2280-2720 Ω |
 | +80°C (176°F) | 290-364 Ω |
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| LH | 13 | GR-W |
-| EZK | 2 | R-SB |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| LH | 13 | GR-W | 0.75 mm² |
+| EZK | 2 | R-SB | 0.75 mm² |
 
 References:
 * Volvo TP 0302057
@@ -114,9 +114,9 @@ Part numbers:
 
 Flow rate at 3 bar: 300 cm³/min
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| LH | 18 | GR |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| LH | 18 | GR | 2.5 mm² |
 
 References:
 * Volvo TP 0302057
@@ -139,9 +139,9 @@ Part numbers:
 | 6 | NC |
 | 7 | NC |
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| EZK | 16 | GR |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| EZK | 16 | GR |  |
 
 References:
 * Volvo TP 0302057
@@ -150,9 +150,9 @@ References:
 
 Relay E. Contains fuel pump relay and enables it.
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| LH | 21 | R |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| LH | 21 | R | 0.75 mm² |
 
 References:
 * Volvo TP 3904202
@@ -161,9 +161,9 @@ References:
 
 Relay E.
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| LH | 20 | Y-SB |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| LH | 20 | Y-SB | 0.75 mm² |
 
 References:
 * Volvo TP 3904202
@@ -175,9 +175,9 @@ Part numbers:
 * Volvo 1389618
 * Bosch 0 280 140 516
 
-| Connector | Pin | Wire color |
-| --- | --- | --- |
-| LH | 33 | R-SB |
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| LH | 33 | R-SB | 0.75 mm² |
 
 References:
 * Volvo TP 0302057
