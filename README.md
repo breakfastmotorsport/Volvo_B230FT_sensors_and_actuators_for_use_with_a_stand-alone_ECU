@@ -7,6 +7,8 @@ This little collection of part numbers, pinouts and sensor values may help you s
 *Please consider this to be incomplete and potentially inaccurate, especially when working with other variants of the Volvo Redblock or older versions of LH-Jetronic.*
 
 
+---
+
 ##### Table of contents
 
 * [Sensors](#sensors)
@@ -22,6 +24,8 @@ This little collection of part numbers, pinouts and sensor values may help you s
   * [Fuel pump relay](#fuel-pump-relay)
   * [Idle air control valve](#idle-air-control-valve)
 * [Wire color codes](#wire-color-codes)
+
+---
 
 
 ## Sensors
