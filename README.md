@@ -9,7 +9,7 @@ This little collection of part numbers, pinouts and sensor values may help you s
 
 ---
 
-##### Table of contents
+## Table of contents
 
 * [Sensors](#sensors)
   * [Engine speed sensor](#engine-speed-sensor)
