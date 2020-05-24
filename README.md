@@ -46,9 +46,9 @@ Part numbers:
 
 | Connector | Pin | Wire color | Wire gauge |
 | --- | --- | --- | --- |
-| EZK | 10 | R |  |
-| EZK | 23 | BL |  |
-| EZK | 11 | SB | (shield) |
+| EZK | 10 | R | 0.34 mm² (?) |
+| EZK | 23 | BL | 0.34 mm² (?) |
+| EZK | 11 | SB | (shield, combined O.D.: ~4.5 mm) |
 
 References:
 * Volvo TP 0302057
@@ -162,7 +162,7 @@ Part numbers:
 
 | Connector | Pin | Wire color | Wire gauge |
 | --- | --- | --- | --- |
-| EZK | 16 | GR |  |
+| EZK | 16 | GR | 1.0 mm² (shielded, O.D.: ~3.5 mm) |
 
 References:
 * Volvo TP 0302057
