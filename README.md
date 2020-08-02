@@ -46,9 +46,9 @@ Part numbers:
 
 | Connector | Pin | Wire color | Wire gauge |
 | --- | --- | --- | --- |
-| EZK | 10 | R | 0.34 mm² (?) |
-| EZK | 23 | BL | 0.34 mm² (?) |
-| EZK | 11 | SB | (shield, combined O.D.: ~4.5 mm) |
+| EZK | 10 | R (in SB) | 0.34 mm² |
+| EZK | 23 | BL (in SB) | 0.34 mm² |
+| EZK | 11 | SB (in SB) | (shield, combined O.D.: ~4.5 mm) |
 
 References:
 * Volvo TP 0302057
@@ -74,6 +74,20 @@ Part numbers:
 | --- | --- | --- | --- |
 | LH | 13 | GR-W | 0.75 mm² |
 | EZK | 2 | R-SB | 0.75 mm² |
+
+References:
+* Volvo TP 0302057
+
+### Knock sensor
+
+Part numbers:
+* Volvo 13 67 644
+* Bosch 0 261 231 046
+
+| Connector | Pin | Wire color | Wire gauge |
+| --- | --- | --- | --- |
+| EZK | 12 | BN (in GN) | (shield, combined O.D.: ~4.0 mm) |
+| EZK | 13 | GN (in GN) | 1.0 mm² |
 
 References:
 * Volvo TP 0302057
@@ -162,7 +176,7 @@ Part numbers:
 
 | Connector | Pin | Wire color | Wire gauge |
 | --- | --- | --- | --- |
-| EZK | 16 | GR | 1.0 mm² (shielded, O.D.: ~3.5 mm) |
+| EZK | 16 | GR (in BK) | 1.0 mm² (shielded, O.D.: ~4.0 mm) |
 
 References:
 * Volvo TP 0302057
